@@ -8,7 +8,7 @@ El siguiente proyecto consta de un chat realizado con Node.js y React JS, como t
  
 ## Backend
 
-El **Backend** ha sido realizado en NodeJs, utilizando frameworks como Express y Socket.io, los cuales proveen un servicio en tiempo real, disponible 24/7
+El **Backend** ha sido realizado en NodeJs, utilizando frameworks como Express y Socket.io, los cuales proveen un servicio en tiempo real
 
 ## Frontend
 
